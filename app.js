@@ -59,13 +59,13 @@
 // document.write("<br><br>");
 
 // ---------------------------------------------------------------------------------------------------------------------
-// --> Class Task:  Table of a number
+// // --> Class Task:  Table of a number
 
-// (1) user input --> konse table ka print karana hai?
-// (2) user input --> konsa table or kahan tak?
+// // (1) user input --> konse table ka print karana hai?
+// // (2) user input --> konsa table or kahan tak?
 
-var num1 = +prompt("Enter the number for which you want the table.");
-var num2 = +prompt("How many times you want the table to be printed?");
-for (var i = 1; i <= num2; i++) {
-    document.write(`${num1} x ${i} = ${num1 * i} <br>`);
-}
+// var num1 = +prompt("Enter the number for which you want the table.");
+// var num2 = +prompt("How many times you want the table to be printed?");
+// for (var i = 1; i <= num2; i++) {
+//     document.write(`${num1} x ${i} = ${num1 * i} <br>`);
+// }
